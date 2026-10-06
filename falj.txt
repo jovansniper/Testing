@@ -5,3 +5,7 @@ git commit -m "update falj.txt"
 git push
 
 git status -> proverka na status
+
+promena
+
+promena preku git
