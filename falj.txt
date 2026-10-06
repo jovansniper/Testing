@@ -9,3 +9,6 @@ git status -> proverka na status
 promena
 
 promena preku git
+
+
+implementacija
