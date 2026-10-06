@@ -3,3 +3,5 @@ tekst 1
 git add . -> go pripremame faljot za commit
 git commit -m "update falj.txt"
 git push
+
+git status -> proverka na status
