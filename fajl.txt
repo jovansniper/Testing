@@ -12,3 +12,4 @@ promena preku git
 
 
 implementacija
+
